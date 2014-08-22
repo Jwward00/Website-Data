@@ -1,0 +1,6 @@
+<Module>
+	<ModulePrefs title="Jeremy Ward\'s ResearcherID Badge" author_email="Jwward00@gmail.com" author="Jeremy Ward" description="Jeremy Ward\'s ResearchID Badge"/>
+	<Contecnt type="html">
+		<<span id='badgeCont511310' style='width:126px'><script src='http://labs.researcherid.com/mashlets?el=badgeCont511310&mashlet=badge&showTitle=false&className=a&rid=J-6371-2014'></script></span>
+	</Content>
+</Module>
